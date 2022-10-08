@@ -1,0 +1,24 @@
+{
+  "name": "muliroom-chat",
+  "version": "1.0.0",
+  "description": "muliroom chat using socket i/o",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JXLEA/multiroom-chat.git"
+  },
+  "author": "jxlea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JXLEA/multiroom-chat/issues"
+  },
+  "homepage": "https://github.com/JXLEA/multiroom-chat#readme",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "socket.io": "^4.5.2",
+    "socketio": "^1.0.0"
+  }
+}
